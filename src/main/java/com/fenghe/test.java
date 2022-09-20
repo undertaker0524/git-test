@@ -5,5 +5,6 @@ public class test {
         System.out.println("git first sysout");
         System.out.println("git second sysout");
         System.out.println("git third sysout");
+        System.out.println("hot-fix branch first sysout");
     }
 }
