@@ -8,6 +8,7 @@ public class test {
         System.out.println("hot-fix branch first sysout");
         System.out.println("master branch modify");
         System.out.println("hot-fix branch modify");
+        System.out.println("push test");
 
     }
 }
